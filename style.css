@@ -56,7 +56,7 @@ p{
 }
 
 #header .nav-logo{
-    font-size: 5rem;
+    font-size: 3rem;
 
 }
 #header .nav-links{
@@ -78,7 +78,7 @@ p{
     
 }
 #hero .hero-items{
-    height: 100vh;
+    height: 75vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -96,12 +96,12 @@ p{
 #hero .hero-name{
     margin-top: 20px 0;
     padding-top: 30px;
-    font-size: 5rem;
+    font-size: 2rem;
     justify-content: center;
     margin: 10px;
 }
 #hero .hero-position{
-    font-size: 5rem;
+    font-size: 2rem;
     display: flex;
     justify-content: center;
     margin: 10px;
@@ -223,7 +223,7 @@ p{
     margin: 50px auto;
 }
 #contact .contact-items{
-    min-height: 150px;
+    min-height: 200px;
     flex-basis: 80%;
     display: flex;
     justify-content: center;
@@ -255,26 +255,26 @@ p{
     text-align: center;
     margin: 0 auto;
 }
-#footer .footer{
-    min-height: 150px;
-    flex-basis: 80%;
+#footer .footer .footer-items{
+    min-height: 15vh;
+    flex-basis: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-direction: row;
-    padding:  0 15px;
-    
+    margin: 0 15px;
 }
+
 #footer .footer .copyright p{
-    font-size: 4rem;
+    font-size: 2rem;
 }
 #footer .footer-links{
     width: 40%;
     display: flex;
+    justify-content: space-between;
 }
 #footer .footer .footer-links a{
-    font-size: 3rem;
-    margin: 0 10px;
+    font-size: 1.2rem;
+    
 }
 
 /*footer section closed*/
