@@ -56,7 +56,7 @@ p{
 }
 
 #header .nav-logo{
-    font-size: 2.5rem;
+    font-size: 3.5rem;
 
 }
 #header .nav-links{
@@ -227,6 +227,19 @@ p{
     padding: 20px;
     border: 4px solid black;
     border-radius: 5px;
+    /*
+    min-height: 300px;
+    flex-basis: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px 5%;
+    position: relative;
+    border: 4px solid black;
+    */
 }
 #contact .contact-details h2{
     font-size: 3rem;
@@ -257,15 +270,15 @@ p{
     padding:  0 15px;
 }
 #footer .footer .copyright p{
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 #footer .footer-links{
     width: 40%;
     display: flex;
-    justify-content: space-between;
 }
 #footer .footer .footer-links a{
-    font-size: 1rem;
+    font-size: 1.5rem;
+    margin: 0 5px;
 }
 /*footer section closed*/
 
