@@ -56,7 +56,7 @@ p{
 }
 
 #header .nav-logo{
-    font-size: 3.5rem;
+    font-size: 5rem;
 
 }
 #header .nav-links{
@@ -270,15 +270,15 @@ p{
     padding:  0 15px;
 }
 #footer .footer .copyright p{
-    font-size: 2rem;
+    font-size: 4rem;
 }
 #footer .footer-links{
     width: 40%;
     display: flex;
 }
 #footer .footer .footer-links a{
-    font-size: 1.5rem;
-    margin: 0 5px;
+    font-size: 3rem;
+    margin: 0 10px;
 }
 /*footer section closed*/
 
